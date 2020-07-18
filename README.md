@@ -11,3 +11,5 @@ base_verb.xlsx
 coord_nounsuj_verb[n].xlsx
 coord_nounonj_verb[n].xlsx
 n ={100.000, 200.000,...,500.000}
+
+Wikipedia datasets can be found in https://zenodo.org/deposit/3950765 

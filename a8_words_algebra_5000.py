@@ -1,4 +1,7 @@
-
+# =============================================================================
+# TFM Fernando Cañavate Vega - Master of AI - Polytechnic University of Madrid
+# Script: Words Algebra
+# =============================================================================
 
 # =============================================================================
 # realiza ciertas operaciones entre vectores sobre matriz densa de 500 palabras

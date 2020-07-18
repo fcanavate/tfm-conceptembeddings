@@ -1,3 +1,10 @@
+# =============================================================================
+# TFM Fernando Cañavate Vega - Master of AI - Polytechnic University of Madrid
+# Script: Samples generator of 500 elements with more representation
+# =============================================================================
+
+
+
 
 # =============================================================================
 # obtiene una lista reducida a los 500 nombres mas representados, con sus

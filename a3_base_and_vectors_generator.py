@@ -1,5 +1,5 @@
 # =============================================================================
-# TFM Fernando CaÃ±avate Vega - Master of AI - Polytechnic University of Madrid
+# TFM Fernando Cañavate Vega - Master of AI - Polytechnic University of Madrid
 # Script: Base and vectors generator 
 # =============================================================================
 

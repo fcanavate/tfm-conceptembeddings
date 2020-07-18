@@ -1,3 +1,9 @@
+# =============================================================================
+# TFM Fernando Cañavate Vega - Master of AI - Polytechnic University of Madrid
+# Script: Base and vectors generator 
+# =============================================================================
+
+
 import openpyxl
 from openpyxl import load_workbook
 from openpyxl import Workbook
